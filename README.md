@@ -8,5 +8,7 @@ In the Firmware at the top you connect it to Wifi along with your govee Api. For
 This allows them to be easily changed in the future with a small firmware change.
 
 **Image 1:**
+
+
 <img width="274" height="253" alt="Screenshot 2026-06-20 at 10 33 51 PM" src="https://github.com/user-attachments/assets/4c3ccb67-82fa-44e4-aa21-d57118d03135" />
 
