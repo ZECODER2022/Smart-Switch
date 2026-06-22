@@ -1,18 +1,18 @@
 #include <WiFiS3.h>
 
-const char* ssid = "WIFI_NAME(SSID)";
-const char* password = "WIFI_PASSWROD";
+const char* ssid = "WIFI_NANE(SSID)";
+const char* password = "WIFI_PASSWORD";
 const char* apiKey = "GOVEE_API";
 
 // Zones (real devices from your account)
 
-const char* macZone1 = "MAC_ADDRESS";  // Nightstand Lamp
+const char* macZone1 = "MAC_ADDRESS";  
 const char* modelZone1 = "HXXXX";
 
-const char* macZone2 = "MAC_ADDRESS";  // Corner Lamp
+const char* macZone2 = "MAC_ADDRESS";  
 const char* modelZone2 = "HXXXX";
 
-const char* macZone3 = "MAC_ADDRESS";  // TV Light Bars
+const char* macZone3 = "MAC_ADDRESS"; 
 const char* modelZone3 = "HXXXX";
 
 // Buttons
