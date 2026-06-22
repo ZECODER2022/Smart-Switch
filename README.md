@@ -3,11 +3,11 @@
 This is a project ive been wanting to do for a while just haven't found a reason too until now. This project is a simple Govee light controller that uses the Govee Developer APi key to allow the user to turn on/off three different lights along with change the brightness. This is the type of thing that would be used for more casual lighting in common areas of a home like; a living room, kitchen, bathroom. It allows easy control over lights in simple ways!
 
 <h2>List of Parts:</h2>
-This project used 2 Main parts:
-- Ardunio Uno r4 WiFi x1 (Note: It has to be the WiFi edition to be able to use due to it having the ESP32 chip onboard for WiFi)
-- Big Buttons x3
-- Small Buttons x2
-- Cables x5-10
+This project used 2 Main parts: <br>
+- Ardunio Uno r4 WiFi x1 (Note: It has to be the WiFi edition to be able to use due to it having the ESP32 chip onboard for WiFi) <br>
+- Big Buttons x3 <br>
+- Small Buttons x2 <br>
+- Cables x5-10 <br>
 
 These are all simple and cheap parts which makes this a easy project to make and a neat little smart home controller that can be customized!
 
