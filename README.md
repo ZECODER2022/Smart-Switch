@@ -8,8 +8,8 @@ This project used 2 Main parts: <br>
 - Big Buttons x3 <br>
 - Small Buttons x2 <br>
 - Cables x5-10 <br>
-
-These are all simple and cheap parts which makes this a easy project to make and a neat little smart home controller that can be customized!
+<br>
+These are all simple and cheap parts which makes this a easy project to make and a neat little smart home controller that can be customized! <br>
 
 <h2>Firmware:</h2>
 In the Firmware at the top you connect it to Wifi along with your govee Api. For each of the three Lights you put in their: Mac Address, Along with their Model Number. (Image 1)
